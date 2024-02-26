@@ -1,0 +1,21 @@
+{
+  "name": "everforest-way-darker",
+  "displayName": "Everforest way darker",
+  "description": "A slight modification of everforest to make the background darker",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darker Everforest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darker Everforest-color-theme.json"
+      }
+    ]
+  }
+}
